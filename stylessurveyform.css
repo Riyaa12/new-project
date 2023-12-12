@@ -1,21 +1,18 @@
-
 body  { font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     background-color:	#525884ae;
 }
    
- 
 
 #title {
-    padding-top:25px;
     text-align: center;
-    color: rgb(19, 20, 23);
+    color: rgb(97, 101, 114);
 }
 
 #description {
     text-align: center;
-    color: rgb(38, 38, 45);
+    color: rgb(66, 66, 72);
 }
 
 #survey-form {
@@ -68,3 +65,5 @@ textarea {
 .inline{
   width: unset;
   display: inline}
+
+
